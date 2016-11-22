@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidArchitecture</string>
+    <string name="action_settings">Settings</string>
+
+    <!--ServerError start-->
+    <string name="server_error_request_fail_please_retry_later">请求失败,请稍后重试</string>
+    <!--ServerError end-->
+    <string name="load_image_fail">图片加载失败,请稍后重试</string>
+</resources>
